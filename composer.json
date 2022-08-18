@@ -1,0 +1,16 @@
+{
+    "name": "leobpereira/solid-php",
+    "description": "Projeto em PHP para treinamento de princípios SOLID",
+    "authors": [
+        {
+            "name": "Leo Pereira",
+            "email": "leo-barbieri@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alura\\Solid\\": "src/"
+        }
+    }
+}
